@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+*.qcow2
+*.iso
+*.zip
